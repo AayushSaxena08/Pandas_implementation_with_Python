@@ -1,7 +1,7 @@
 # Pandas : For Data Analysis
 
 <a class="anchor" id="0.1"></a>
-**TOC:**
+**Table of Contents:**
 1. [Importing pandas](#1)
 2. [Reading the data](#2)
 3. [Analyze the data](#3)
@@ -88,3 +88,4 @@ There can be two types of Type Casting in Python –
    
 ![image](https://user-images.githubusercontent.com/35486320/193227923-fac41eb5-fd63-4adf-9ef9-d049e3875450.png)
 
+# Thank you for reading this repo. Connect with me on <a href="https://www.linkedin.com/in/aayushsaxena08/">LinkedIn</a>⭐
